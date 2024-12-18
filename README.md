@@ -2,8 +2,8 @@
 
 I'm a first year PhD candidate at Roche (Basel, Switzerland) and the [Inria MIND team](https://team.inria.fr/mind/) (Paris-Saclay). 
 
-:brain:	My work focuses on understanding individual treatment effects in neuroscience. I am interested in causal inference, statistical machine learning, and interpretable AI, with a particular emphasis on statistical inference for variable importance. My research also delves into brain functional imaging, especially EEG, and the application of deep learning techniques.
-Before my PhD, I interned at Siemens Healthineers in Princeton, NJ, working on deep reinforcement learning approaches to assist in liver tumor surgeries.
+:brain:	I work on interpretable machine learning, focusing on applications to neuro-imaging and causal inference. I am interested in statistical machine learning, causal inference, and interpretable AI, particularly emphasizing statistical inference for variable importance. My research also delves into brain functional imaging, especially EEG, and the application of deep learning techniques.
+Before my PhD, I interned at Siemens Healthineers in Princeton, NJ, working on deep reinforcement learning approaches to assist liver tumor surgeries.
 
 ---
 
