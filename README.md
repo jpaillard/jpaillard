@@ -1,9 +1,8 @@
 ## Hi there, I'm Joseph 👋
 
-I'm a first year PhD candidate at Roche (Basel, Switzerland) and the [Inria MIND team](https://team.inria.fr/mind/) (Paris-Saclay). 
+I'm a second-year PhD candidate at Roche (Basel, Switzerland) and the [Inria MIND team](https://team.inria.fr/mind/) (Paris-Saclay). 
 
-:brain:	I work on interpretable machine learning, focusing on applications to neuro-imaging and causal inference. I am interested in statistical machine learning, causal inference, and interpretable AI, particularly emphasizing statistical inference for variable importance. My research also delves into brain functional imaging, especially EEG, and the application of deep learning techniques.
-Before my PhD, I interned at Siemens Healthineers in Princeton, NJ, working on deep reinforcement learning approaches to assist liver tumor surgeries.
+Learn more about my work on my webpage: https://jpaillard.github.io/
 
 ---
 
